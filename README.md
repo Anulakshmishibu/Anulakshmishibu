@@ -1,7 +1,7 @@
 # Hi, I'm Anulakshmi Shibu 👋
 
 <p align="center">
-  <img src="https://i.pinimg.com/736x/c3/b9/ca/c3b9cae574e095c98ac2532991ab2d95.jpg" alt="Typing SVG" />
+  <img src="https://i.pinimg.com/736x/9c/cd/0d/9ccd0df4ccf165feb395244d3097ffc9.jpg" alt="Typing SVG" />
 </p>
 
 <p align="center">
