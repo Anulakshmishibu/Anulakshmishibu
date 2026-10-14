@@ -8,7 +8,7 @@ A passionate software developer with a strong interest in building practical, sc
 - 🌱 Constantly learning new technologies and improving my skills
 - 🎯 Interested in building impactful projects that solve real problems
 - 🤝 Open to collaboration, internships, and learning opportunities
-
+f
 ## Skills
 
 ### Frontend
