@@ -5,7 +5,8 @@
 </p>
 
 <p align="center">
-  <img src="https://images.unsplash.com/photo-1515879218367-8466d910aaa4?auto=format&fit=crop&w=1200&q=80" alt="Developer workspace" width="100%" />
+  <!-- lightweight cat animation GIF -->
+  <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" alt="Cute cat typing" width="420" />
 </p>
 
 A passionate software developer focused on building practical, user-friendly, and impactful web applications. I enjoy turning real-world problems into clean, scalable, and efficient digital solutions.
