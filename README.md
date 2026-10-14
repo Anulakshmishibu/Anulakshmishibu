@@ -1,68 +1,70 @@
 # Hi, I'm Anulakshmi Shibu 👋
 
-A passionate software developer with a strong interest in building practical, scalable, and user-friendly web applications. I enjoy turning ideas into real-world products by combining clean design, efficient code, and thoughtful problem-solving.
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=7dd3fc&center=true&vCenter=true&width=700&lines=Software+Developer;Web+Developer;Problem+Solver;Tech+Enthusiast" alt="Typing SVG" />
+</p>
+
+<p align="center">
+  <img src="https://images.unsplash.com/photo-1515879218367-8466d910aaa4?auto=format&fit=crop&w=1200&q=80" alt="Developer workspace" width="100%" />
+</p>
+
+A passionate software developer focused on building practical, user-friendly, and impactful web applications. I enjoy turning real-world problems into clean, scalable, and efficient digital solutions.
 
 ## About Me
 
-- 💻 Software Developer focused on web and application development
+- 💻 Full stack and web application developer
 - 🌱 Constantly learning new technologies and improving my skills
-- 🎯 Interested in building impactful projects that solve real problems
-- 🤝 Open to collaboration, internships, and learning opportunities
-f
-## Skills
+- 🎯 Interested in software, automation, and real-world problem solving
+- 🤝 Open to internships, collaboration, and innovative opportunities
+
+## Tech Stack
 
 ### Frontend
-- HTML5
-- CSS3
-- JavaScript
-- Bootstrap
-- Responsive Web Design
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 
 ### Backend
-- PHP
-- Python
-- REST APIs
-- Authentication & Authorization concepts
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 ### Database
-- MySQL
-- PostgreSQL
-- Database design and query optimization
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-### Tools & Platforms
-- Git & GitHub
-- VS Code
-- Postman
-- Figma
-- Linux / Ubuntu
+### Tools
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 ## Featured Projects
 
-### 1. Home Service Management System
-A service-platform project that supports user, worker, and admin modules for managing service requests and operations.
+### 1) Home Service Management System
+A platform for managing home service requests with modules for users, workers, and admins.
 
-### 2. Online Recipe Website
-A recipe-sharing platform with user registration, recipe uploads, ratings, and personalized search features.
+### 2) Online Recipe Website
+A recipe-sharing platform that allows users to register, upload recipes, rate others, and search based on diet preferences.
 
-### 3. Event Management System
-A digital platform for managing event-related workflows and user interactions efficiently.
+### 3) Event Management System
+A digital solution designed to help manage event-related workflows efficiently.
 
-### 4. Automated Robotic Medicine Delivery System
-An embedded-system-based project focused on automating medicine delivery with safe and efficient handling.
+### 4) Automated Robotic Medicine Delivery System
+A project built around embedded systems and automation for safe, timely medicine delivery.
 
 ## GitHub Stats
 
-![Anulakshmi Shibu's GitHub stats](https://github-readme-stats.vercel.app/api?username=Anulakshmishibu&show_icons=true&theme=tokyonight)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Anulakshmishibu&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" />
+</p>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Anulakshmishibu&layout=compact&theme=tokyonight)
-
-## Why I Code
-
-I enjoy solving real-world problems through software and building applications that are useful, efficient, and easy to use. Every project is an opportunity to learn, improve, and create something meaningful.
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anulakshmishibu&layout=compact&theme=tokyonight" alt="Top Languages" />
+</p>
 
 ## Connect With Me
 
 - GitHub: https://github.com/Anulakshmishibu
-- Open to collaborations, freelance work, and software opportunities
+- Open to collaboration and software development opportunities
 
-> “Code is not just about solving problems — it is about creating value and improving experiences.”
+> “Good software is not just built—it is designed to make life easier.”
