@@ -1,12 +1,12 @@
 # Hi, I'm Anulakshmi Shibu 👋
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=7dd3fc&center=true&vCenter=true&width=700&lines=Software+Developer;Web+Developer;Problem+Solver;Tech+Enthusiast" alt="Typing SVG" />
+  <img src="https://i.pinimg.com/736x/c3/b9/ca/c3b9cae574e095c98ac2532991ab2d95.jpg" alt="Typing SVG" />
 </p>
 
 <p align="center">
   <!-- lightweight cat animation GIF -->
-  <img src="https://i.pinimg.com/originals/1b/e0/05/1be0050b393f6c4f9fe7eccfd8856a40.gif" alt="Cute cat typing" width="420" />
+  <img src="[https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif](https://i.pinimg.com/originals/1b/e0/05/1be0050b393f6c4f9fe7eccfd8856a40.gif)" alt="Cute cat typing" width="420" />
 </p>
 
 A passionate software developer focused on building practical, user-friendly, and impactful web applications. I enjoy turning real-world problems into clean, scalable, and efficient digital solutions.
