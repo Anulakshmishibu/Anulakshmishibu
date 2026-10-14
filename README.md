@@ -6,7 +6,7 @@
 
 <p align="center">
   <!-- lightweight cat animation GIF -->
-  <img src="[https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif](https://i.pinimg.com/originals/1b/e0/05/1be0050b393f6c4f9fe7eccfd8856a40.gif)" alt="Cute cat typing" width="420" />
+  <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" alt="Cute cat typing" width="420" />
 </p>
 
 A passionate software developer focused on building practical, user-friendly, and impactful web applications. I enjoy turning real-world problems into clean, scalable, and efficient digital solutions.
