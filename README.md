@@ -1,61 +1,88 @@
-# ANULAKSHMI SHIBU
+<div align="center">
 
-<!-- Header: left = about, right = image. Uses flex so it wraps nicely on small screens -->
-<div style="display:flex;flex-wrap:wrap;align-items:center;gap:24px;margin-bottom:18px;">
-  <div style="flex:1 1 420px;min-width:260px;">
-    <h2 style="margin:0 0 6px 0;">Software Engineer <span style="color:#9aa0a6">|</span> Backend Developer</h2>
-    <p style="margin:6px 0;">
-      <a href="mailto:anulakshmishibul@gmail.com">anulakshmishibul@gmail.com</a> •
-      <a href="https://linkedin.com/in/Anulakshmi-Shibu">LinkedIn</a>
-    </p>
+# Hi, I'm Anulakshmi Shibu 👋
 
-   <p style="color:var(--color-text-secondary,#cbd5e1);line-height:1.6;max-width:72ch">
-      A passionate software engineer focused on building scalable backend systems, robust APIs,
-      and efficient database-driven applications. I enjoy solving real‑world problems with clean
-      architecture, strong logic, and practical engineering solutions.
-    </p>
+### Software Engineer · Backend Developer
 
-  </div>
-   
-  <div style="flex:0 0 260px;display:flex;justify-content:center;align-items:center;min-width:200px;">
-    <!-- Replace the src below with your generated animated WebP/GIF path (or keep a static image) -->
-    <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Floating animation" style="width:100%;max-width:260px;height:auto;border-radius:12px;box-shadow:0 8px 30px rgba(2,6,23,0.6);" />
-  </div>
+**Building reliable APIs, scalable backend services, and thoughtful web experiences.**
+
+<a href="mailto:anulakshmishibul@gmail.com"><img src="https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+<a href="https://linkedin.com/in/Anulakshmi-Shibu"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="https://github.com/Anulakshmishibu"><img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+
 </div>
 
 ---
 
-## Core Skills
+<table>
+<tr>
+<td valign="top" width="62%">
 
-**Languages & Frameworks**  
-Python · FastAPI · Flask · PHP · Flutter · Dart · Java · Embedded C · HTML · CSS
+### 👩‍💻 About Me
 
-**Databases**  
-PostgreSQL · MySQL · SQL Query Optimization · Relational Schema Design
+I'm a software engineer with **1.5 years of experience**, focused on developing robust backend systems and clean, maintainable APIs.
 
-**Architecture & Design**  
-RESTful API Design · OOP · UML · ER Diagrams · DFDs
+- 🐍 Building backend services with **Python & FastAPI**
+- ⚛️ Developing web interfaces with **React**
+- 🗄️ Working with **PostgreSQL**, relational data, and SQL
+- 🧩 Interested in API design, performance, and practical problem-solving
+- 🌱 Always learning and improving my engineering skills
 
-**Tools & Practices**  
-Git · Code Reviews · Debugging · Database Schema Design
+</td>
+<td align="center" valign="middle" width="38%">
+
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="260" alt="Animated developer at a computer" />
+
+</td>
+</tr>
+</table>
+
+## 🛠️ Tech Stack
+
+**Backend & Languages**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+
+**Frontend & Mobile**
+
+![React](https://img.shields.io/badge/React-149ECA?style=flat-square&logo=react&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
+
+**Databases & Tools**
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+
+**Engineering Practices:** REST APIs · OOP · SQL Optimization · Database Design · Debugging · Code Reviews · UML · ER Diagrams · DFDs · Embedded C
+
+## 📊 GitHub Activity
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Anulakshmishibu&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub statistics" height="165" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anulakshmishibu&layout=compact&theme=tokyonight&hide_border=true" alt="Most-used public repository languages" height="165" />
+
+</div>
 
 ---
 
-## GitHub Stats
+<div align="center">
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Anulakshmishibu&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" />
-</p>
+### 🤝 Let's Connect
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anulakshmishibu&layout=compact&theme=tokyonight" alt="Top Languages" />
-</p>
+Open to conversations about backend engineering, APIs, and software development.
 
----
+[**Email**](mailto:anulakshmishibul@gmail.com) · [**LinkedIn**](https://linkedin.com/in/Anulakshmi-Shibu) · [**GitHub**](https://github.com/Anulakshmishibu)
 
-## Connect With Me
+*Good software is not just built — it is designed to make life easier.*
 
-- GitHub: https://github.com/Anulakshmishibu
-- LinkedIn: https://linkedin.com/in/Anulakshmi-Shibu
-
-> Good software is not just built — it is designed to make life easier.
+</div>
