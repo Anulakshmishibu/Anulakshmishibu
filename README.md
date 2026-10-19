@@ -1,55 +1,45 @@
 # ANULAKSHMI SHIBU
-<h3 align="left">
-  Software Engineer | Backend Developer
-</h3>
-<p align="left">
-  <a href="https://linkedin.com/in/Anulakshmi-Shibu">LinkedIn</a>
-</p>
-<p align="right">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="220" alt="Floating coding animation" style="max-width: 100%; height: auto; border-radius: 16px;" />
-</p>
 
+<!-- Header: left = about, right = image. Uses flex so it wraps nicely on small screens -->
+<div style="display:flex;flex-wrap:wrap;align-items:center;gap:24px;margin-bottom:18px;">
+  <div style="flex:1 1 420px;min-width:260px;">
+    <h2 style="margin:0 0 6px 0;">Software Engineer <span style="color:#9aa0a6">|</span> Backend Developer</h2>
+    <p style="margin:6px 0;">
+      Ernakulam, Kerala, India • <a href="tel:+919778014026">+91 9778014026</a> •
+      <a href="mailto:anulakshmishibul@gmail.com">anulakshmishibul@gmail.com</a> •
+      <a href="https://linkedin.com/in/Anulakshmi-Shibu">LinkedIn</a>
+    </p>
 
-A passionate software engineer focused on building scalable backend systems, robust APIs, and efficient database-driven applications. I enjoy solving real-world problems with clean architecture, strong logic, and practical engineering solutions.
+    <p style="color:var(--color-text-secondary,#cbd5e1);line-height:1.6;max-width:72ch">
+      A passionate software engineer focused on building scalable backend systems, robust APIs,
+      and efficient database-driven applications. I enjoy solving real‑world problems with clean
+      architecture, strong logic, and practical engineering solutions.
+    </p>
+  </div>
+
+  <div style="flex:0 0 260px;display:flex;justify-content:center;align-items:center;min-width:200px;">
+    <!-- Replace the src below with your generated animated WebP/GIF path (or keep a static image) -->
+    <img src="docs/images/animation.webp" alt="Floating animation" style="width:100%;max-width:260px;height:auto;border-radius:12px;box-shadow:0 8px 30px rgba(2,6,23,0.6);" />
+  </div>
+</div>
+
+---
 
 ## Core Skills
 
-### Languages & Frameworks
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+**Languages & Frameworks**  
+Python · FastAPI · Flask · PHP · Flutter · Dart · Java · Embedded C · HTML · CSS
 
-### Databases
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+**Databases**  
+PostgreSQL · MySQL · SQL Query Optimization · Relational Schema Design
 
-### Design & Architecture
-- RESTful API Design
-- Object-Oriented Programming
-- UML Modeling
-- ER Diagrams
-- DFDs
-- SQL Query Optimization
+**Architecture & Design**  
+RESTful API Design · OOP · UML · ER Diagrams · DFDs
 
-### Tools
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+**Tools & Practices**  
+Git · Code Reviews · Debugging · Database Schema Design
 
-## What I Do
-
-- Build scalable backend services with Python and FastAPI
-- Design and optimize relational database systems
-- Develop full-stack and cross-platform application solutions
-- Improve system performance, stability, and maintainability
-- Solve real-world product and workflow challenges
+---
 
 ## GitHub Stats
 
@@ -60,6 +50,8 @@ A passionate software engineer focused on building scalable backend systems, rob
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anulakshmishibu&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
+
+---
 
 ## Connect With Me
 
