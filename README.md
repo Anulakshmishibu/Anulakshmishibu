@@ -4,12 +4,11 @@
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="220" alt="Floating coding animation" style="max-width: 100%; height: auto; border-radius: 16px;" />
 </p>
 
-<h3 align="center">
+<h3 align="left">
   Software Engineer | Backend Developer
 </h3>
 
-<p align="center">
-  Ernakulam, Kerala, India • +91 9778014026 • anulakshmishibul@gmail.com •
+<p align="left">
   <a href="https://linkedin.com/in/Anulakshmi-Shibu">LinkedIn</a>
 </p>
 
