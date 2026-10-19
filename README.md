@@ -10,12 +10,13 @@
       <a href="https://linkedin.com/in/Anulakshmi-Shibu">LinkedIn</a>
     </p>
 
-    <p style="color:var(--color-text-secondary,#cbd5e1);line-height:1.6;max-width:72ch">
+   
+  </div>
+   <p style="color:var(--color-text-secondary,#cbd5e1);line-height:1.6;max-width:72ch">
       A passionate software engineer focused on building scalable backend systems, robust APIs,
       and efficient database-driven applications. I enjoy solving real‑world problems with clean
       architecture, strong logic, and practical engineering solutions.
     </p>
-  </div>
 
   <div style="flex:0 0 260px;display:flex;justify-content:center;align-items:center;min-width:200px;">
     <!-- Replace the src below with your generated animated WebP/GIF path (or keep a static image) -->
