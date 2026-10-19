@@ -5,7 +5,6 @@
   <div style="flex:1 1 420px;min-width:260px;">
     <h2 style="margin:0 0 6px 0;">Software Engineer <span style="color:#9aa0a6">|</span> Backend Developer</h2>
     <p style="margin:6px 0;">
-      Ernakulam, Kerala, India • <a href="tel:+919778014026">+91 9778014026</a> •
       <a href="mailto:anulakshmishibul@gmail.com">anulakshmishibul@gmail.com</a> •
       <a href="https://linkedin.com/in/Anulakshmi-Shibu">LinkedIn</a>
     </p>
@@ -20,7 +19,7 @@
 
   <div style="flex:0 0 260px;display:flex;justify-content:center;align-items:center;min-width:200px;">
     <!-- Replace the src below with your generated animated WebP/GIF path (or keep a static image) -->
-    <img src="docs/images/animation.webp" alt="Floating animation" style="width:100%;max-width:260px;height:auto;border-radius:12px;box-shadow:0 8px 30px rgba(2,6,23,0.6);" />
+    <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Floating animation" style="width:100%;max-width:260px;height:auto;border-radius:12px;box-shadow:0 8px 30px rgba(2,6,23,0.6);" />
   </div>
 </div>
 
