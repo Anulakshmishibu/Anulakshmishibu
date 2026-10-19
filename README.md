@@ -9,14 +9,14 @@
       <a href="https://linkedin.com/in/Anulakshmi-Shibu">LinkedIn</a>
     </p>
 
-   
-  </div>
    <p style="color:var(--color-text-secondary,#cbd5e1);line-height:1.6;max-width:72ch">
       A passionate software engineer focused on building scalable backend systems, robust APIs,
       and efficient database-driven applications. I enjoy solving real‑world problems with clean
       architecture, strong logic, and practical engineering solutions.
     </p>
 
+  </div>
+   
   <div style="flex:0 0 260px;display:flex;justify-content:center;align-items:center;min-width:200px;">
     <!-- Replace the src below with your generated animated WebP/GIF path (or keep a static image) -->
     <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Floating animation" style="width:100%;max-width:260px;height:auto;border-radius:12px;box-shadow:0 8px 30px rgba(2,6,23,0.6);" />
