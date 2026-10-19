@@ -1,7 +1,7 @@
 # Hi, I'm Anulakshmi Shibu 👋
 
 <p align="left">
-  <img src="f57f8da357eb70a67b9d72749dbcf6af.jpg" alt="Typing SVG"/>
+  <img src="f57f8da357eb70a67b9d72749dbcf6af.jpg" alt="Typing SVG" align="left/>
 </p>
 
 A passionate software developer focused on building practical, user-friendly, and impactful web applications. I enjoy turning real-world problems into clean, scalable, and efficient digital solutions.
