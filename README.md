@@ -1,50 +1,98 @@
-# Hi, I'm Anulakshmi Shibu 👋
+# ANULAKSHMI SHIBU
 
-<p align="right"> <img src="docs/images/f57f8da357eb70a67b9d72749dbcf6af.png" alt="profile" /> </p>
+<p align="right">
+  <img src="f57f8da357eb70a67b9d72749dbcf6af.jpg" width="180" alt="Anulakshmi Shibu" />
+</p>
 
-A passionate software developer focused on building practical, user-friendly, and impactful web applications. I enjoy turning real-world problems into clean, scalable, and efficient digital solutions.
+Software Engineer | Backend Developer
 
-## About Me
+Ernakulam, Kerala, India • +91 9778014026 • anulakshmishibul@gmail.com • <a href="https://linkedin.com/in/Anulakshmi-Shibu">LinkedIn</a>
 
-- 💻 Full stack and web application developer
-- 🌱 Constantly learning new technologies and improving my skills
-- 🎯 Interested in software, automation, and real-world problem solving
-- 🤝 Open to internships, collaboration, and innovative opportunities
+A results-driven software engineer with hands-on experience in backend microservices, full-stack development, and database optimization. I build scalable applications using Python, FastAPI, Flask, PostgreSQL, and Flutter, with a strong focus on REST API design, performance, and real-world problem solving.
 
-## Tech Stack
+## Core Technologies
 
-### Frontend
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+### Languages & Frameworks
+- Python
+- FastAPI
+- Flask
+- PHP
+- Flutter
+- Dart
+- Java
+- Embedded C
+- HTML
+- CSS
 
-### Backend
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+### Databases & Querying
+- PostgreSQL
+- MySQL
+- SQL Query Optimization
+- Relational Database Design
 
-### Database
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+### Architecture & Design
+- RESTful API Design
+- Object-Oriented Programming (OOP)
+- UML Modeling
+- ER Diagrams
+- DFDs
 
-### Tools
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+### Tools & Practices
+- Git
+- Version Control
+- Code Reviews
+- Debugging
+- Database Schema Design
+
+## Professional Experience
+
+### Backend Developer
+Regal Jewellers — Ernakulam, India  
+September 2025 – Present
+
+- Architect and maintain backend microservices using Python and FastAPI.
+- Design and implement secure RESTful APIs for core business workflows.
+- Optimize PostgreSQL queries and indexes to improve system efficiency.
+- Debug API and integration issues to ensure application reliability and uptime.
+- Collaborate with engineering teams using Git and technical documentation practices.
+
+### Software Associate
+RISS Technologies — Ernakulam, India  
+September 2024 – February 2025
+
+- Developed and deployed 20+ web and cross-platform applications using Python, Flutter, Android Java, and MySQL.
+- Designed relational database schemas using ER diagrams, DFDs, and UML.
+- Built Flutter and Dart based mobile solutions for multi-platform user experiences.
+- Led workshops and mentoring sessions for junior developers and trainees.
 
 ## Featured Projects
 
-### 1) Home Service Management System
-A platform for managing home service requests with modules for users, workers, and admins.
+### Event Management System
+Python, Flutter, REST APIs
 
-### 2) Online Recipe Website
-A recipe-sharing platform that allows users to register, upload recipes, rate others, and search based on diet preferences.
+- Developed a full-stack booking platform with role-based access control for Admin, User, and Worker.
+- Connected Flutter frontend with Python backend through REST APIs.
 
-### 3) Event Management System
-A digital solution designed to help manage event-related workflows efficiently.
+### Online Supermarket Platform
+Python, MySQL, HTML/CSS
 
-### 4) Automated Robotic Medicine Delivery System
-A project built around embedded systems and automation for safe, timely medicine delivery.
+- Built a multi-module e-commerce platform for product catalog, cart, order tracking, and logistics.
+
+### Home Service Management System
+PHP, MySQL, HTML/CSS
+
+- Designed a web portal for booking home services and managing service provider workflows.
+
+### Automated Robotic Medicine Delivery System
+Embedded C, Microcontrollers
+
+- Created firmware for a robotic hardware prototype with biometric fingerprint verification for secure medication dispatch.
+
+## Education
+
+Bachelor of Technology (B.Tech) in Computer Science & Engineering  
+Sree Narayana Guru Institute of Science and Technology, Ernakulam, India  
+June 2020 – May 2024
 
 ## GitHub Stats
 
@@ -56,9 +104,8 @@ A project built around embedded systems and automation for safe, timely medicine
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anulakshmishibu&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
 
-## Connect With Me
+## Connect with Me
 
 - GitHub: https://github.com/Anulakshmishibu
-- Open to collaboration and software development opportunities
 
-> “Good software is not just built—it is designed to make life easier.”
+> Good software is not just built—it is designed to make life easier.
