@@ -1,98 +1,58 @@
 # ANULAKSHMI SHIBU
 
-<p align="right">
-  <img src="f57f8da357eb70a67b9d72749dbcf6af.jpg" width="180" alt="Anulakshmi Shibu" />
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="220" alt="Floating coding animation" style="max-width: 100%; height: auto; border-radius: 16px;" />
 </p>
 
-Software Engineer | Backend Developer
+<h3 align="center">
+  Software Engineer | Backend Developer
+</h3>
 
-Ernakulam, Kerala, India • +91 9778014026 • anulakshmishibul@gmail.com • <a href="https://linkedin.com/in/Anulakshmi-Shibu">LinkedIn</a>
+<p align="center">
+  Ernakulam, Kerala, India • +91 9778014026 • anulakshmishibul@gmail.com •
+  <a href="https://linkedin.com/in/Anulakshmi-Shibu">LinkedIn</a>
+</p>
 
-A results-driven software engineer with hands-on experience in backend microservices, full-stack development, and database optimization. I build scalable applications using Python, FastAPI, Flask, PostgreSQL, and Flutter, with a strong focus on REST API design, performance, and real-world problem solving.
+A passionate software engineer focused on building scalable backend systems, robust APIs, and efficient database-driven applications. I enjoy solving real-world problems with clean architecture, strong logic, and practical engineering solutions.
 
-## Core Technologies
+## Core Skills
 
 ### Languages & Frameworks
-- Python
-- FastAPI
-- Flask
-- PHP
-- Flutter
-- Dart
-- Java
-- Embedded C
-- HTML
-- CSS
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-### Databases & Querying
-- PostgreSQL
-- MySQL
-- SQL Query Optimization
-- Relational Database Design
+### Databases
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-### Architecture & Design
+### Design & Architecture
 - RESTful API Design
-- Object-Oriented Programming (OOP)
+- Object-Oriented Programming
 - UML Modeling
 - ER Diagrams
 - DFDs
+- SQL Query Optimization
 
-### Tools & Practices
-- Git
-- Version Control
-- Code Reviews
-- Debugging
-- Database Schema Design
+### Tools
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
-## Professional Experience
+## What I Do
 
-### Backend Developer
-Regal Jewellers — Ernakulam, India  
-September 2025 – Present
-
-- Architect and maintain backend microservices using Python and FastAPI.
-- Design and implement secure RESTful APIs for core business workflows.
-- Optimize PostgreSQL queries and indexes to improve system efficiency.
-- Debug API and integration issues to ensure application reliability and uptime.
-- Collaborate with engineering teams using Git and technical documentation practices.
-
-### Software Associate
-RISS Technologies — Ernakulam, India  
-September 2024 – February 2025
-
-- Developed and deployed 20+ web and cross-platform applications using Python, Flutter, Android Java, and MySQL.
-- Designed relational database schemas using ER diagrams, DFDs, and UML.
-- Built Flutter and Dart based mobile solutions for multi-platform user experiences.
-- Led workshops and mentoring sessions for junior developers and trainees.
-
-## Featured Projects
-
-### Event Management System
-Python, Flutter, REST APIs
-
-- Developed a full-stack booking platform with role-based access control for Admin, User, and Worker.
-- Connected Flutter frontend with Python backend through REST APIs.
-
-### Online Supermarket Platform
-Python, MySQL, HTML/CSS
-
-- Built a multi-module e-commerce platform for product catalog, cart, order tracking, and logistics.
-
-### Home Service Management System
-PHP, MySQL, HTML/CSS
-
-- Designed a web portal for booking home services and managing service provider workflows.
-
-### Automated Robotic Medicine Delivery System
-Embedded C, Microcontrollers
-
-- Created firmware for a robotic hardware prototype with biometric fingerprint verification for secure medication dispatch.
-
-## Education
-
-Bachelor of Technology (B.Tech) in Computer Science & Engineering  
-Sree Narayana Guru Institute of Science and Technology, Ernakulam, India  
-June 2020 – May 2024
+- Build scalable backend services with Python and FastAPI
+- Design and optimize relational database systems
+- Develop full-stack and cross-platform application solutions
+- Improve system performance, stability, and maintainability
+- Solve real-world product and workflow challenges
 
 ## GitHub Stats
 
@@ -104,8 +64,9 @@ June 2020 – May 2024
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anulakshmishibu&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
 
-## Connect with Me
+## Connect With Me
 
 - GitHub: https://github.com/Anulakshmishibu
+- LinkedIn: https://linkedin.com/in/Anulakshmi-Shibu
 
-> Good software is not just built—it is designed to make life easier.
+> Good software is not just built — it is designed to make life easier.
