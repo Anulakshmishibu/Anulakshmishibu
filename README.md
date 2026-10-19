@@ -2,17 +2,13 @@
 <h3 align="left">
   Software Engineer | Backend Developer
 </h3>
+<p align="left">
+  <a href="https://linkedin.com/in/Anulakshmi-Shibu">LinkedIn</a>
+</p>
 <p align="right">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="220" alt="Floating coding animation" style="max-width: 100%; height: auto; border-radius: 16px;" />
 </p>
 
-<h3 align="left">
-  Software Engineer | Backend Developer
-</h3>
-
-<p align="left">
-  <a href="https://linkedin.com/in/Anulakshmi-Shibu">LinkedIn</a>
-</p>
 
 A passionate software engineer focused on building scalable backend systems, robust APIs, and efficient database-driven applications. I enjoy solving real-world problems with clean architecture, strong logic, and practical engineering solutions.
 
