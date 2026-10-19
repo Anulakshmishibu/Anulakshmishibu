@@ -1,5 +1,7 @@
 # ANULAKSHMI SHIBU
-
+<h3 align="left">
+  Software Engineer | Backend Developer
+</h3>
 <p align="right">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="220" alt="Floating coding animation" style="max-width: 100%; height: auto; border-radius: 16px;" />
 </p>
